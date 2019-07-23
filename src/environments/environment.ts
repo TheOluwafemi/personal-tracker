@@ -5,7 +5,7 @@
 export const environment = {
   production: false,
   firebase: {
-    apiKey: 'AIzaSyCy2y9ipeblvB2M19i1COwVKuaPF7SJBIQ',
+    apiKey: '',
     authDomain: 'tracker-247218.firebaseapp.com',
     databaseURL: 'https://tracker-247218.firebaseio.com',
     projectId: 'tracker-247218',
